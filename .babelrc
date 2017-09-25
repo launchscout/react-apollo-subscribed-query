@@ -1,0 +1,10 @@
+{
+  "presets": [
+    [
+      "stage-3"
+    ]
+  ],
+  "plugins": [
+    "external-helpers"
+  ]
+}
