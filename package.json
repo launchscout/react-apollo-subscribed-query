@@ -1,11 +1,17 @@
 {
   "name": "react-apollo-subscribed-query",
+  "description": "Wraps your React component with a graphql query that updates via subscription.",
+  "author": "Chris Nelson <chris.nelson@gaslight.co>",
   "version": "0.0.1",
   "main": "dist/react-apollo-subscribed-query.cjs.js",
   "module": "dist/react-apollo-subscribed-query.esm.js",
   "browser": "dist/react-apollo-subscribed-query.umd.js",
   "peerDependencies": {
     "react-apollo": "^1.4.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaslight/react-apollo-subscribed-query.git"
   },
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.22.0",
