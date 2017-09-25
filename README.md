@@ -6,7 +6,7 @@ that will update its results.
 
 ## Example
 
-```
+```javascript
 import React, { Component } from 'react';
 import {
   ApolloClient,
